@@ -1,0 +1,19 @@
+Opção 2: Publicar no Streamlit Cloud (gratuito e online)
+Isso evita que seu amigo tenha que instalar qualquer coisa!
+
+Passos:
+Crie uma conta gratuita em: https://streamlit.io/cloud
+
+Coloque seu código + imagem em um repositório no GitHub (público ou privado).
+
+Vá no Streamlit Cloud, clique em "Deploy an app" e escolha seu repositório.
+
+O painel será acessado por um link do tipo:
+
+arduino
+Copiar
+Editar
+https://seu-nome.streamlit.app
+Seu amigo poderá abrir e clicar nos links direto do navegador — sem instalar nada.
+
+📌 Importante: a imagem de fundo precisa estar no repositório e ser lida pelo código corretamente.
